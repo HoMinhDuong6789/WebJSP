@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/toeic-core-dto/toeic-core-dto.iml" filepath="$PROJECT_DIR$/toeic-core-dto/toeic-core-dto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/toeic-core-web/toeic-core-web.iml" filepath="$PROJECT_DIR$/toeic-core-web/toeic-core-web.iml" />
     </modules>
   </component>
 </project>
