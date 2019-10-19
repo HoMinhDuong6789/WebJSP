@@ -11,6 +11,7 @@
     <modules>
         <module>toeic-web</module>
         <module>toeic-web-logic</module>
+        <module>toeic-core-web</module>
         <module>toeic-core-utils</module>
         <module>toeic-core-common</module>
         <module>toeic-core-dao</module>
@@ -21,9 +22,6 @@
         <module>toeic-core-persistence-data</module>
         <module>toeic-core-test</module>
         <module>toeic-core-dto</module>
-        <module>toeic-web-logic</module>
-        <module>toeic-web</module>
-        <module>toeic-core-web</module>
     </modules>
 
     <properties>

@@ -11,6 +11,8 @@ public class UserDTO implements Serializable {
     private String fullName;
     private Timestamp createdDate;
     private RoleDTO roleDTO;
+   // private UserImportDTO userImportDTO;
+   // private List<ResultDTO> results;
 
     public Integer getUserId() {
         return userId;
@@ -59,6 +61,22 @@ public class UserDTO implements Serializable {
     public void setRoleDTO(RoleDTO roleDTO) {
         this.roleDTO = roleDTO;
     }
+
+    /*public UserImportDTO getUserImportDTO() {
+        return userImportDTO;
+    }
+
+    public void setUserImportDTO(UserImportDTO userImportDTO) {
+        this.userImportDTO = userImportDTO;
+    }
+
+    public List<ResultDTO> getResults() {
+        return results;
+    }
+
+    public void setResults(List<ResultDTO> results) {
+        this.results = results;
+    }*/
 
 
     // private RoleEntity roleEntity;
